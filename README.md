@@ -2,4 +2,6 @@
 
 1. <https://www.youtube.com/watch?v=xuA83OYTE7I>
 
-1. HTML + CSS + JS
+2. <https://hyundai-sangho.github.io/CustomPagePreLoader/>
+
+3. HTML + CSS + JS
